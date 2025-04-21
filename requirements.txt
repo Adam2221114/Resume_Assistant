@@ -1,0 +1,6 @@
+transformers>=4.37.0
+torch>=2.0
+accelerate>=0.22.0
+tiktoken>=0.5.1
+einops>=0.6.1
+transformers_stream_generator>=0.0.4
